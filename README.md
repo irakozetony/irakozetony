@@ -9,7 +9,7 @@ I've worked with websites as a hobby since 2014. Recently, after completing my B
 * 🌍  I'm based in Kigali, Rwanda
 * 🖥️  See my portfolio at [Yves Tony](http://yvestony.com)
 * ✉️  You can contact me at [irakozeyves9@gmail.com](mailto:irakozeyves9@gmail.com)
-* 🚀  I'm currently working on [Job Portal](https://github.com/irakozetony/)
+* 🚀  I'm currently working on [Job Portal](https://github.com/irakozetony/jobportal)
 * 🧠  I'm learning SvelteKit
 * 🤝  I'm open to collaborating on Django
 * ⚡  One day, I'll wake up as a hacker
