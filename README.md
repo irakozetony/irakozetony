@@ -14,6 +14,8 @@ I've worked with websites as a hobby since 2014. Recently, after completing my B
 * 🤝  I'm open to collaborating on Django
 * ⚡  One day, I'll wake up as a hacker
 
+<a href="https://app.daily.dev/kiytony"><img src="https://api.daily.dev/devcards/c14178f613b040cfae6145d09b674aa2.png?r=qq9" width="400" alt="Irakoze Yves's Dev Card"/></a>
+
 <a href="https://www.github.com/irakozetony" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/irakozetony?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
