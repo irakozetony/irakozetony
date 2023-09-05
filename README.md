@@ -12,7 +12,7 @@ I'm a professional fullstack software engineer who enjoys tackling challenges an
 * 🚀  I'm currently working on [Job Portal](https://github.com/irakozetony/jobportal)
 * 🧠  I'm learning SvelteKit
 * 🤝  I'm open to collaborating on Django, Svelte, React and NodeJs
-* ⚡  One day, I'll wake up as a hacker
+* ⚡  Go watch Mr Robot
 
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="/assets/BinsarDark.svg"></source>
