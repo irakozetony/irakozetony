@@ -14,6 +14,8 @@ I'm a professional fullstack software engineer who enjoys tackling challenges an
 * 🤝  I'm open to collaborating on Django, Svelte, React and NodeJs
 * ⚡  Go watch Mr Robot
 
+[![built with Codeium](https://codeium.com/badges/main)](https://codeium.com)
+
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="/assets/BinsarDark.svg"></source>
     <source media="(prefers-color-scheme: light)" srcset="/assets/BinsarLight.svg"></source>
