@@ -9,9 +9,9 @@ I'm a professional fullstack software engineer who enjoys tackling challenges an
 * 🌍  I'm based in Kigali, Rwanda
 * 🖥️  See my portfolio at [Yves Tony](http://yvestony.com)
 * ✉️  You can contact me at [irakozeyves9@gmail.com](mailto:irakozeyves9@gmail.com)
-* 🚀  I'm currently working on [Job Portal](https://github.com/irakozetony/jobportal)
+* 🚀  I'm currently working on [Nokanda For Business](https://biz.nokanda.app)
 * 🧠  I'm learning SvelteKit
-* 🤝  I'm open to collaborating on Django, Svelte, React and NodeJs
+* 🤝  I'm open to collaborating on Django, FastAPI, Svelte, React and NodeJs
 * ⚡  Go watch Mr Robot
 
 <picture>
